@@ -2,6 +2,8 @@
 
 Youth Service Philippines is a React + Vite single-page application prepared for Supabase-backed data and Vercel deployment.
 
+Formal project documentation is available in [`docs/OFFICIAL_DOCUMENTATION.md`](./docs/OFFICIAL_DOCUMENTATION.md).
+
 ## Stack
 
 - React 19
